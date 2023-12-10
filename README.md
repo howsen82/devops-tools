@@ -118,7 +118,7 @@
 * [Grafana](https://grafana.com/)
 * [Kibana](https://www.elastic.co/kibana)
 * [Sensu](https://sensu.io/)
-* [dynatrace](https://www.dynatrace.com/)
+* [Dynatrace](https://www.dynatrace.com/)
 * [Zipkin](https://zipkin.io/)
 * [Graphite](https://graphiteapp.org/)
 * [APImetrics](https://apimetrics.io/)
@@ -142,6 +142,10 @@
 * [Runscope](https://www.runscope.com/)
 * [Rollbar](https://rollbar.com/)
 * [Moogsoft](https://www.moogsoft.com/)
+* [Sematext](https://sematext.com/)
+* [SolarWinds Pingdom](https://www.solarwinds.com/pingdom)
+* [SmartBear AlertSite](https://smartbear.com/product/alertsite/web-monitoring/)
+* [Site24X7](https://www.site24x7.com/)
 
 **Artifact Management**
 * [DockerHub](https://hub.docker.com/)
